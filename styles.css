@@ -3,6 +3,12 @@
     border: 3px saddlebrown;
 }
 
-h1 {
+h2 {
     padding: 25px
+}
+h3 {
+    padding: 50px
+}
+image {
+    padding: 100px
 }
