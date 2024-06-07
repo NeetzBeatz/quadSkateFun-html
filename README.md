@@ -21,3 +21,7 @@ Section 5 - Moving on your skates
     How to move forwards
     How to stop
     How to fall
+
+CSS
+Initial colour palette (colour palette 1 - png image)
+Look at Olamides code to get some ideas for the navbar - hover etc
