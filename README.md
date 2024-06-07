@@ -16,3 +16,8 @@ Examples to give include:
     Inline skating and ramps
 
 Section 4 - Skate maintenance and how to take care of the boot
+
+Section 5 - Moving on your skates
+    How to move forwards
+    How to stop
+    How to fall
