@@ -1,7 +1,7 @@
 # quadSkateFun-html
 
 Plan for website:
-
+HTML
 Section 1 - describing the setup of a quad skate boot (ADD IMAGE OF QUAD BOOT) - add link here to section on skate maintenance further down
 
 Section 2 - Types of wheels and benefits depending on surface to skate on
